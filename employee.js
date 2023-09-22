@@ -35,5 +35,6 @@ function calculateTotalPay(employee){
 
 const regularEmployee = new Employee(15,40);
 console.log("regular employee makes:", calculateTotalPay(regularEmployee));
+console.log("Manager makes:", calculateTotalPay(manager)); 
 
 

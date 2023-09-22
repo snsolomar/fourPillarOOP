@@ -15,6 +15,7 @@
 
 1. Encapsulation: it's like putting everything you need inside of a capsule. You want to use the capsule to do certain things, but you don't need to see the inner mechanisms. It is the process of binding data members and methods together, without revealing unnecessary details.
 
-2. Abstraction: 
+2. Abstraction: Abstraction is only showing what is necessary. For example, you create a method inside of a class. You use that method in your program, but you don't need to see all the details of the method. 
+
 3. Inheritance 
 4. Polymorphism
